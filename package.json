@@ -1,0 +1,12 @@
+{
+  "name": "node-nginx",
+  "version": "0.0.1",
+  "description": "node with nginx on docker for beginner",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["node","nginx","dokcer"],
+  "author": "restuwahyu13",
+  "license": "MIT"
+}
