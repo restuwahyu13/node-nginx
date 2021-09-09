@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": ["node","nginx","dokcer"],
+  "keywords": ["node","nginx","docker","ingress"],
   "author": "restuwahyu13",
   "license": "MIT"
 }
