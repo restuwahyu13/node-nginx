@@ -9,7 +9,7 @@ Simple Setup Nginx HTTP (Only) As Reverse proxy and simple Express Nodejs.
 ## Deploying / Running
 1. Change `env` file to `.env` and edit them.
 2. If you want to see the app as localhost, Uncomment the `port` section in `webapp` service
-3. Run `docker-compose up --env-file ./config/.env up` or `docker-compose build` then `docker-compose start` (If want to build)
+3. Run `docker-compose --env-file env up` or `docker-compose build` then `docker-compose start` (If want to build)
 
 
 ## Installation
